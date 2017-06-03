@@ -1,7 +1,7 @@
 国外站点DATAVISUALIZATION.CH为大家总结出了当前热用的43款可视化工具，包括Arbor、Chroma.js、D3.js、Google Chart Tools等，绝对让你一饱眼福。
 1.Arbor.js
 Arbor是一个免费的、可视化的图形库，基于矢量创建动态的连接图。它为图形组织和屏幕刷新处理提供了一个高效的、力导向的布局算法。
-
+http://cms.csdnimg.cn/articlev1/uploads/allimg/130115/156_130115101340_1.jpg
 2.CartoDB
 CartoDB是一个地图Web Service，并提供非常丰富API，利用它可以轻松创建动态的、可视化的数据驱动地图。
 
